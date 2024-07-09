@@ -7,11 +7,11 @@
 ## About me
 I am an engineer who has been working for an electrical engineering company. Now my colleagues and I are creating a new application for searching and creating GOOSE messages. Therefore, my goal is to write a web interface for this application. I have some experience writing the logical part in JS, and it works. I have basic knowledge in JS, Swift.
 ## Skills:
-HTML
-CSS
-JavaScript
-Swift
-Git
+- HTML
+- CSS
+- JavaScript
+- Swift
+- Git
 ## Code Example:
 ```
 function likes(names) {
@@ -25,10 +25,13 @@ function likes(names) {
   }
 }
 ```
+## Projects
+- CV ([CV on GitHab] (https://github.com/AnnaSergeevnaIv/rsschool-cv.git))
+  
 ## Education
-SwiftBook courses
-Udemy JavaScript (in process)
+- SwiftBook courses
+- Udemy JavaScript (in process)
 
 ## Languages
-Russian - native
-English - B1
+- Russian - native
+- English - B1

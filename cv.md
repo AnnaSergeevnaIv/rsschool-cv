@@ -1,8 +1,8 @@
 # Ivanova Anna
 ## Junior Frontend Developer
 ## Contact information:
-**E-mail:** kara4eva.anya@gmail.com
-**Telegram:** @Anna_Sergeevna_Iv
+**E-mail:** kara4eva.anya@gmail.com\
+**Telegram:** @Anna_Sergeevna_Iv\
 **Discord:** @_anna_ivanova_
 ## About me
 I am an engineer who has been working for an electrical engineering company. Now my colleagues and I are creating a new application for searching and creating GOOSE messages. Therefore, my goal is to write a web interface for this application. I have some experience writing the logical part in JS, and it works. I have basic knowledge in JS, Swift.
@@ -26,7 +26,7 @@ function likes(names) {
 }
 ```
 ## Projects
-- CV ([CV on GitHab] (https://github.com/AnnaSergeevnaIv/rsschool-cv.git))
+- CV ([CV on GitHab](https://github.com/AnnaSergeevnaIv/rsschool-cv.git))
   
 ## Education
 - SwiftBook courses

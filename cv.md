@@ -1,6 +1,6 @@
 # Ivanova Anna
 ## Junior Frontend Developer
-[Ivanova Anna's photo](/rsschool-cv/assets/IMG_3461.jpg)
+![Ivanova Anna's photo](/../rsschool-cv/assets/IMG_3461.jpg)
 ## Contact information:
 **E-mail:** kara4eva.anya@gmail.com\
 **Telegram:** @Anna_Sergeevna_Iv\

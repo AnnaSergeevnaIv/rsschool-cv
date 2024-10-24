@@ -1,6 +1,6 @@
 # Ivanova Anna
-<!-- ![Photo](/assets/IMG_3461.jpeg) -->
-<img src="/assets/IMG_3461.jpeg" width="300">
+![Photo](/assets/IMG_3461.jpeg)
+
 ## Junior Frontend Developer
 
 ### Contact information:
@@ -11,11 +11,13 @@
 
 
 **Discord**: @anna_ivanova
+
 ***
 
 
 ### About me
 I am an engineer who has been working for an electrical engineering company. Now my colleagues and I are creating a new application for searching and creating GOOSE messages. Therefore, my goal is to write a web interface for this application. I have some experience writing the logical part in JS, and it works. I have basic knowledge in JS, Swift.
+
 ***
 
 
@@ -25,6 +27,7 @@ I am an engineer who has been working for an electrical engineering company. Now
 * JavaScript
 * Swift
 * Git
+
 ***
 
 
@@ -44,16 +47,19 @@ function likes(names) {
 ***
 
 
+
 ### Projects
 * [2048 game](https://rolling-scopes-school.github.io/annasergeevnaiv-JSFEPRESCHOOL2024Q2/random-game/index.html)
 * [Audio player](https://rolling-scopes-school.github.io/annasergeevnaiv-JSFEPRESCHOOL2024Q2//audio-player/index.html)
 * [Shelter](https://rolling-scopes-school.github.io/annasergeevnaiv-JSFEPRESCHOOL2024Q2/shelter/index.html)
+
 ***
 
 
 ### Education
 * SwiftBook courses
 * JS / Front-end Pre-school RU
+
 ***
 
 

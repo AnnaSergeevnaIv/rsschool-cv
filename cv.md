@@ -1,6 +1,6 @@
 # Ivanova Anna
 <!-- ![Photo](/assets/IMG_3461.jpeg) -->
-<img src="/assets/IMG_3461.jpeg" width="200" height="200">
+<img src="/assets/IMG_3461.jpeg" width="300">
 ## Junior Frontend Developer
 
 ### Contact information:

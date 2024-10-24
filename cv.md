@@ -1,13 +1,15 @@
 # Ivanova Anna
-
+![] (./assets/IMG_3461.jpeg)
 
 ## Junior Frontend Developer
-***
-
 
 ### Contact information:
 **E-mail**: kara4eva.anya@gmail.com
+
+
 **Telegram**: @Anna_Sergeevna_Iv
+
+
 **Discord**: @anna_ivanova
 ***
 
@@ -43,9 +45,9 @@ function likes(names) {
 
 
 ### Projects
-* [2048 game] [https://rolling-scopes-school.github.io/annasergeevnaiv-JSFEPRESCHOOL2024Q2/random-game/index.html]
-* [Audio player] [https://rolling-scopes-school.github.io/annasergeevnaiv-JSFEPRESCHOOL2024Q2//audio-player/index.html]
-* [Shelter] [https://rolling-scopes-school.github.io/annasergeevnaiv-JSFEPRESCHOOL2024Q2/shelter/index.html]
+* [2048 game] (https://rolling-scopes-school.github.io/annasergeevnaiv-JSFEPRESCHOOL2024Q2/random-game/index.html)
+* [Audio player] (https://rolling-scopes-school.github.io/annasergeevnaiv-JSFEPRESCHOOL2024Q2//audio-player/index.html)
+* [Shelter] (https://rolling-scopes-school.github.io/annasergeevnaiv-JSFEPRESCHOOL2024Q2/shelter/index.html)
 ***
 
 

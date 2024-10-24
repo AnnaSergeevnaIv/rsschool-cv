@@ -1,5 +1,5 @@
 # Ivanova Anna
-![] (./assets/IMG_3461.jpeg)
+![Photo] (/assets/IMG_3461.jpeg)
 
 ## Junior Frontend Developer
 
